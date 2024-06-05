@@ -8,4 +8,4 @@ Frontend : 백승재
 
 Backend, infra : 이승현
 
-Design, Idea : 서희준
+Design, infra : 서희준

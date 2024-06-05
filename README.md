@@ -5,4 +5,5 @@
 <메뉴와 식당 추천, RESTI>
 
 Frontend : 백승재
+
 Backend, infra : 이승현

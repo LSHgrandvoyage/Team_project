@@ -7,7 +7,7 @@ import routers
 # Load environment variables from dotenv file
 dotenv.load_dotenv()
 
-OPENAI_API_KEY="sk-proj-uj3I1vE7ZrLXzEALrqNWT3BlbkFJUmM9fvC3VhtON4Y3ySRB"
+OPENAI_API_KEY="my_api_key"
 
 app = FastAPI(
     root_path=os.environ.get('BASE_URL', ''),

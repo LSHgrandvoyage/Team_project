@@ -9,7 +9,7 @@ from pydantic_core import Url
 
 class BaseLLMModel(BaseModel, metaclass=ABCMeta):
     name: str = Field(description='LLM name')
-    api_key: str = "sk-proj-uj3I1vE7ZrLXzEALrqNWT3BlbkFJUmM9fvC3VhtON4Y3ySRB"
+    api_key: str = "my api key"
     @abstractmethod
     def build(self) -> LLM:
         return ChatOpenAI(openai_api_key=self.api_key)

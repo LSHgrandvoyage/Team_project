@@ -55,4 +55,4 @@ kind: Secret
 metadata:
   name: openai
 stringData:
-  OPENAI_API_KEY: "sk-proj-uj3I1vE7ZrLXzEALrqNWT3BlbkFJUmM9fvC3VhtON4Y3ySRB"
+  OPENAI_API_KEY: "my_api_key"

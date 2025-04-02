@@ -10,4 +10,3 @@ Backend, infra : 이승현
 
 Design, infra : 서희준
 
-코드 안의 my_api_key에 실제 chatgpt api key를 넣으면 됨
